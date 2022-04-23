@@ -1,6 +1,6 @@
 # Java-Bot-vs-Human-Card-Game
 
-Acknowledgement: This assigment is taken from Koç University Comp 132 class.
+Acknowledgement: This assigment is taken from Koç University Comp 132 class (lab 1) .
 
 ATTENTION:
 
